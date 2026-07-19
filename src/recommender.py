@@ -2,7 +2,7 @@ import csv
 from typing import List, Dict, Tuple, Optional
 from dataclasses import dataclass
 
-GENRE_WEIGHT = 2.0
+GENRE_WEIGHT = 0.5
 MOOD_WEIGHT = 1.0
 ENERGY_WEIGHT = 1.0
 
